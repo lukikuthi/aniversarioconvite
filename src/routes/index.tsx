@@ -297,19 +297,27 @@ function Index() {
                       {copied ? "Endereço copiado!" : "Copiar endereço"}
                     </span>
                   </button>
-                  <button
-                    onClick={scrollToRsvp}
-                    className="group flex items-center justify-between border border-foreground bg-foreground px-5 py-4 text-background transition-all duration-300 hover:bg-transparent hover:text-foreground"
-                  >
-                    <span className="flex items-center gap-3 text-sm">
-                      <ArrowDown className="h-4 w-4 transition-transform duration-300 group-hover:translate-y-0.5" /> Confirmar presença
-                    </span>
-                  </button>
+
                 </div>
               </FadeIn>
 
               {/* Gift - collapsible, inside location section */}
               <Gift />
+
+              <motion.div
+                initial={{ opacity: 0 }}
+                animate={{ opacity: 1 }}
+                transition={{ delay: 0.5, duration: 0.6 }}
+                className="flex justify-center pt-8"
+              >
+                <motion.div
+                  animate={{ y: [0, 8, 0] }}
+                  transition={{ duration: 1.8, repeat: Infinity, ease: "easeInOut" }}
+                  className="text-muted-foreground/50"
+                >
+                  <ArrowDown className="h-5 w-5" />
+                </motion.div>
+              </motion.div>
             </Section>
           </div>
 
