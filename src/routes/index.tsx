@@ -185,15 +185,20 @@ function Index() {
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.6, delay: 1.6, ease: [0.22, 1, 0.36, 1] }}
-                className="mt-8"
+                className="mt-12 flex flex-col items-center gap-3"
               >
-                <button
+                <span className="text-[10px] uppercase tracking-[0.3em] text-muted-foreground">
+                  Confirmar presença no final da página
+                </span>
+                <motion.button
                   onClick={scrollToRsvp}
-                  className="group inline-flex items-center gap-3 border border-foreground bg-foreground px-6 py-3 text-xs uppercase tracking-[0.25em] text-background transition-all duration-300 hover:bg-transparent hover:text-foreground"
+                  animate={{ y: [0, 8, 0], opacity: [0.4, 1, 0.4] }}
+                  transition={{ duration: 2, repeat: Infinity, ease: "easeInOut" }}
+                  className="text-muted-foreground hover:text-foreground transition-colors duration-300"
+                  aria-label="Rolar para baixo"
                 >
-                  Confirmar presença
-                  <ArrowDown className="h-3 w-3 transition-transform duration-300 group-hover:translate-y-0.5" />
-                </button>
+                  <ArrowDown className="h-5 w-5" />
+                </motion.button>
               </motion.div>
             </div>
           </section>
