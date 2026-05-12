@@ -40,7 +40,7 @@ const eventInfo: InfoItem[] = [
     icon: BedDouble,
     label: "Hospedagem",
     value: "30 camas disponíveis",
-    detail: "Quem não conseguir dormir tem cama para descansar e ir embora no dia seguinte até as 10:00",
+    detail: "Quem não conseguir ir embora tem cama para descansar e ir embora no dia seguinte até as 10:00",
   },
   {
     icon: Backpack,
