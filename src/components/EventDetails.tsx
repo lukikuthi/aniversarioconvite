@@ -46,7 +46,7 @@ const eventInfo: InfoItem[] = [
     icon: Backpack,
     label: "O que levar",
     value: "Animação e sede!",
-    detail: "Levar traje para banho - Toalha (Caso for dormir: Roupa de Cama)",
+    detail: "Levar traje para banho - Toalha - Caso for dormir: Roupa de Cama - Bebidas de preferência",
   },
   {
     icon: AlertCircle,
