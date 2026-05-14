@@ -248,7 +248,7 @@ function Index() {
 
               <FadeIn delay={0.15}>
                 <div className="mt-10 space-y-1 text-base leading-relaxed">
-                  <p>Estr. da Esmeralda, 242</p>
+                  <p>Recanto FB, Estr. da Esmeralda, 242</p>
                   <p>Jundiapeba</p>
                   <p>Mogi das Cruzes — SP</p>
                   <p className="text-muted-foreground">08700-000</p>
