@@ -22,7 +22,7 @@ const eventInfo: InfoItem[] = [
     icon: Clock,
     label: "Duração",
     value: "Até domingo, 10h",
-    detail: "O churrasco começa no sábado e segue até domingo de manhã",
+    detail: "O churrasco começa no sábado e segue até a noite",
   },
   {
     icon: Home,
