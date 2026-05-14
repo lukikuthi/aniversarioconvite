@@ -20,7 +20,7 @@ export const Route = createFileRoute("/")({
   }),
 });
 
-const ADDRESS = "Estr. da Esmeralda, 242 — Jundiapeba, Mogi das Cruzes - SP, 08700-000";
+const ADDRESS = "Recanto FB, Estr. da Esmeralda, 242 - Jundiapeba, Mogi das Cruzes - SP, 08700-000";
 const ADDRESS_QUERY = encodeURIComponent("Recanto FB, Estr. da Esmeralda, 242, Jundiapeba, Mogi das Cruzes - SP");
 
 const fadeUp = {
