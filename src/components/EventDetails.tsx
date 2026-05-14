@@ -33,8 +33,8 @@ const eventInfo: InfoItem[] = [
   {
     icon: MapPin,
     label: "Endereço",
-    value: "Estr. da Esmeralda, 242",
-    detail: "Jundiapeba, Mogi das Cruzes — SP",
+    value: "Recanto FB, Estr. da Esmeralda, 242",
+    detail: "Jundiapeba, Mogi das Cruzes - SP, 08700-000",
   },
   {
     icon: BedDouble,
