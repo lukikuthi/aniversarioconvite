@@ -223,7 +223,7 @@ export default function Gift() {
                 Sua presença já é o melhor presente.
               </p>
               <p className="text-sm text-muted-foreground">
-                Mas se quiser me surpreender, deslize e veja algumas sugestões: (imagens criadas por I.A)
+                Mas se quiser me surpreender, deslize e veja algumas sugestões:
               </p>
 
               {/* Scroll row with arrows */}
