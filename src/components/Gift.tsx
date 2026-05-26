@@ -96,6 +96,22 @@ const gifts: GiftItem[] = [
     image: img("teclado.png"),
     link: "https://www.amazon.com.br/ATTACK-SHARK-mec%C3%A2nico-interruptor-retroilumina%C3%A7%C3%A3o/dp/B0DJ13PMKD/ref=asc_df_B0DJ13PMKD?mcid=241e26e73ba23aa88b32e5abf40b521a&tag=googleshopp00-20&linkCode=df0&hvadid=721185796203&hvpos=&hvnetw=g&hvrand=5281970612402927499&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9199108&hvtargid=pla-2374768376294&psc=1&gad_source=1",
   },
+ {
+    id: "ps4",
+    name: "PS4",
+    description: "Para jogar com os amigos",
+    price: "R$ 1.000 - R$ 1.800",
+    image: img("ps4.png"),
+    link: "https://www.mercadolivre.com.br/sony-playstation-4-slim-500gb-uncharted-4-a-thiefs-end-bundle-cor-preto-onyx-excelente-recondicionado/p/MLB2014104756?pdp_filters=item_id%3AMLB6223179414&from=gshop&matt_tool=91562990&matt_word=&matt_source=google&matt_campaign_id=22090193891&matt_ad_group_id=191545542882&matt_match_type=&matt_network=g&matt_device=c&matt_creative=787871501933&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735098660&matt_product_id=MLB2014104756-product&matt_product_partition_id=2452780900702&matt_target_id=aud-2009166904988:pla-2452780900702&cq_src=google_ads&cq_cmp=22090193891&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=22090193891&gbraid=0AAAAAD93qcAmNwN4kuh6Y1K69TwU6aZbf&gclid=CjwKCAjwidXQBhAZEiwA4egw6PTLwNRGtcnbgAT0VcrGYYHbqZkLC9lauvNcPdn2UmJLyoXEWkMy4hoCyloQAvD_BwE",
+  },
+  {
+    id: "ps5",
+    name: "PS5",
+    description: "Para jogar GTA 6",
+    price: "R$ 2.000 - R$4.000",
+    image: img("ps5.png"),
+    link: "https://www.google.com/search?q=consoles+de+playstation&ibp=oshop&prds=catalogid:8512600371043032303,headlineOfferDocid:7655658577421792367,merchantid:5706279852,localOfferStoreId:2133614431067063638,pvt:hg,pvo:27,pvcb:4&pvorigin=27&ei=8IYVaoqeE_uw5OUPsYLuoQw&gclsrc=aw.ds&gad_source=1&gad_campaignid=23867856604&gbraid=0AAAAAD2HY4vRdhSo3zoIrMDqI4f-jrW_M&gclid=CjwKCAjwidXQBhAZEiwA4egw6M24dOSmlknuS8jR6gUNQn0fAqvUY-OKnCwRHSkqHO-73s3fesch7RoCN4cQAvD_BwE",
+  },
   {
     id: "trafego",
     name: "Trafego Pago",
