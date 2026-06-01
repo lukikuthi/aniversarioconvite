@@ -40,13 +40,13 @@ const eventInfo: InfoItem[] = [
     icon: BedDouble,
     label: "Hospedagem",
     value: "30 camas disponíveis",
-    detail: "Quem não conseguir ir embora tem cama para descansar e ir embora no dia seguinte até as 10:00",
+    detail: "Quem não conseguir ir embora tem cama para descansar e ir embora no dia seguinte até as 09:00 - Levar roupa de cama caso dormir.",
   },
   {
     icon: Backpack,
     label: "O que levar",
     value: "Animação e sede!",
-    detail: "Levar traje para banho - Toalha - Caso for dormir: Roupa de Cama - Bebidas de preferência",
+    detail: "Levar traje para banho - Toalha - Bebidas de preferência · Caso for dormir: Roupa de Cama",
   },
   {
     icon: AlertCircle,
