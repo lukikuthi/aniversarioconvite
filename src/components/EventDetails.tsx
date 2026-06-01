@@ -107,7 +107,7 @@ export default function EventDetails({ onScrollToLocation }: EventDetailsProps) 
           >
             <div className="flex items-baseline gap-4 border-b border-border pb-4">
               <span className="font-mono text-xs uppercase tracking-widest text-muted-foreground">data</span>
-              <span className="text-xl font-light">06 de junho · Sábado</span>
+              <span className="text-xl font-light">06 de junho · Sábado · A partir das 13h</span>
             </div>
             <p className="text-balance leading-relaxed text-muted-foreground">
               Estou completando 18 anos e não poderia deixar essa data passar em branco.
