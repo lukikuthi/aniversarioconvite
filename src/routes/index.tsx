@@ -334,8 +334,8 @@ function Index() {
                   <span className="text-shimmer font-bold">18</span> anos só acontecem<br />uma vez.
                 </h2>
                 <p className="mt-8 text-balance text-base text-muted-foreground sm:text-lg">
-                  E eu quero que você esteja lá comigo. Confirme sua presença
-                  e vamos criar memórias que vão ficar para sempre.
+                  Quero muito comemorar com você. Confirme sua presença para me ajudar a planejar tudo direitinho.
+                  Coloque seu nome, quantas pessoas vão com você e se tem alguma informação complementar. Vai ser incrível ter você lá!
                 </p>
               </FadeIn>
 

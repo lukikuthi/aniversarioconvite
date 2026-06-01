@@ -3,9 +3,9 @@ import { motion, AnimatePresence } from "framer-motion";
 import { ChevronDown } from "lucide-react";
 
 const lines = [
-  "Você recebeu um convite.",
-  "E dessa vez...",
-  "é para algo que só acontece uma vez.",
+  "Já é nesse sabado!",
+  "Já confirmou sua presença?",
+  "Leia a pagina até o final para não perder nada!",
 ];
 
 interface IntroProps {
