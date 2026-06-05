@@ -16,7 +16,7 @@ const eventInfo: InfoItem[] = [
     icon: CalendarDays,
     label: "Data",
     value: "Sábado, 06 de junho",
-    detail: "A partir das 13h",
+    detail: "A partir das 14h",
   },
   {
     icon: Clock,
